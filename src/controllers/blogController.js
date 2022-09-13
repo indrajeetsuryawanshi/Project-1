@@ -35,7 +35,7 @@ const getBlog = async function (req, res) {
     let tags = req.query.tags
     let subcategory = req.query.subcategory
 
-    if(!VALIDATOR.isValidObjectId(authorId)) return res.status(400).send({msg:"author_id is not valid"})
+    
 
     let blog = {
       isDeleted: false,
