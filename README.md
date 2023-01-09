@@ -133,4 +133,4 @@ Blogs
   "updatedAt": "2021-09-17T04:25:07.803Z",
 }
 Refer https://jsonplaceholder.typicode.com/guide/ for some fake blogs data.
-Note: Create a group database and use the same database in connection string by replacing `groupXDatabase](https://github.com/debasish-afk/Project-1.git)
+
